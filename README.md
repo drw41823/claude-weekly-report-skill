@@ -13,11 +13,7 @@ A Claude Code skill for generating polished weekly research reports in LaTeX for
 
 ## Install
 
-```bash
-claude mcp install weekly-report
-```
-
-Or manually: copy this directory into `.claude/skills/weekly-report/`.
+Copy this directory into your project's `.claude/skills/weekly-report/`:
 
 ## Usage
 
