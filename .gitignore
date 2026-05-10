@@ -1,0 +1,7 @@
+*.zip
+*.pdf
+*.aux
+*.log
+*.toc
+*.out
+.DS_Store
