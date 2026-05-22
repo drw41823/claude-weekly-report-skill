@@ -1,5 +1,7 @@
 # Weekly Report Generator
 
+> [中文版](README.zh.md)
+
 A Claude Code skill for generating polished weekly research reports in LaTeX format. Designed for PhD students and researchers who report to their advisors weekly.
 
 ## What it does
@@ -33,7 +35,7 @@ weekly_report_YYYY-MM-DD/
 ├── main.tex
 ├── 1_highlights.tex
 ├── 2_section.tex
-├── ...
+├── ├── ...
 └── figure/
 
 weekly_report_YYYY-MM-DD.zip
