@@ -15,7 +15,6 @@ Follow these steps in order:
 
 Ask the user in one message:
 
-- **Week identifier** — e.g., "Week 19" or "May 4-10, 2026".
 - **Activities** — What did they work on this week? List the main items.
 - **Figures** — Any figures/plots/screenshots to include?
 - **Author info** — Reuse previously saved author info if available. If first use, ask.
@@ -179,7 +178,6 @@ Only after the user confirms the content, create the LaTeX project.
     \HRule{0.5pt} \\
     \LARGE \textbf{\uppercase{Weekly Report}} \\
     \HRule{2pt} \\ [0.5cm]
-    \normalsize \textbf{[Week Identifier]} \\
     \normalsize \today \vspace*{5\baselineskip}
 }
 
